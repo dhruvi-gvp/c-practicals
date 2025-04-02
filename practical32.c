@@ -1,3 +1,4 @@
+//Write a program to take input/output two float number using pointer.
 #include<stdio.h>
 void main()
 {
